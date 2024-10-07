@@ -27,7 +27,6 @@ The repository is organized as follows:
 
 ```plaintext
 ├── data/                  # Example datasets used in the research
-├── docs/                  # Documentation and methodology details
 ├── results/               # Generated results and figures
 ├── src/                   # Source code for the analysis
 ├── LICENSE                # License for the repository
