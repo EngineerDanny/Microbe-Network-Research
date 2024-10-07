@@ -28,8 +28,7 @@ The repository is organized as follows:
 ```plaintext
 ├── data/                  # Example datasets used in the research
 ├── results/               # Generated results and figures
-├── src/                   # Source code for the analysis
+├── code/                   # Source code for the analysis
 ├── LICENSE                # License for the repository
 ├── README.md              # This README file
-├── requirements.txt       # List of dependencies for Python environment
-└── environment.yml        # Conda environment configuration (optional)
+```
